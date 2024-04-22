@@ -12,11 +12,9 @@ https://cdn.shopify.com/s/files/1/0564/3685/0790/files/singleProduct.json?v=1701
 
 1.Clone or Download:
 
-->If using Git, clone the repository using the following command
+->If using Git, clone the repository 
 
-```bash
-  git clone https://github.com/vaibhavsindhe/Marmeto-assignment
-```
+
 
 ->Or Download the repository
 
